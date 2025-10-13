@@ -38,12 +38,15 @@
   <a href="https://github.com/CzechU99/shopapi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CzechU99&repo=shopapi&theme=tokyonight" />
   </a>
-  
   <a href="https://github.com/CzechU99/bowlinggame">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CzechU99&repo=bowlinggame&theme=tokyonight" />
   </a>
   <a href="https://github.com/CzechU99/libraryapp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CzechU99&repo=libraryapp&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/CzechU99/storecheckout">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CzechU99&repo=storecheckout&theme=tokyonight" />
+  </a>
 </p>
 
 ---
