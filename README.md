@@ -29,7 +29,7 @@
 
 ---
 
-## 📁 Projects
+## 📁 Main Projects
 
 <p align="center">
   <a href="https://github.com/CzechU99/ServiceHUB">
@@ -41,9 +41,7 @@
   <a href="https://github.com/CzechU99/storecheckout">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CzechU99&repo=storecheckout&theme=tokyonight" />
   </a>
-  <a href="https://github.com/CzechU99/bowlinggame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CzechU99&repo=bowlinggame&theme=tokyonight" />
-  </a>
+  
   <a href="https://github.com/CzechU99/libraryapp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CzechU99&repo=libraryapp&theme=tokyonight" />
 </p>
