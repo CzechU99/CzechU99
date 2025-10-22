@@ -48,7 +48,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CzechU99&repo=storecheckout&theme=tokyonight" />
   </a>
   <a href="https://github.com/CzechU99/profisysApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CzechU99&repo=storecheckout&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CzechU99&repo=profisysApp&theme=tokyonight" />
   </a>
 </p>
 
