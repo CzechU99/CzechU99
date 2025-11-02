@@ -19,12 +19,12 @@
 ## 🧠 Tech Stack
 #### Languages & Frameworks:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,symfony,html,css,vue,js,python,cs,c" />
+  <img src="https://skillicons.dev/icons?i=php,symfony,html,css,vue,js,python,cs,cpp,dotnet,flask" />
 </p>
 
 #### Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,postman,git,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,postman,git,figma,arduino,sqlite,blender" />
 </p>
 
 ---
